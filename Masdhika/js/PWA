@@ -1,0 +1,38 @@
+{
+  "name": "Masdhika.com",
+  "short_name": "Masdhika.com",
+  "start_url": "https://www.masdhika.com/",
+  "display": "standalone",
+  "background_color": "#fefefe",
+  "theme_color": "#21409a",
+  "description": "Situs Masdhika.com merupakan sumber terpercaya untuk mencari tahu tentang Tips dan Trik, Informasi Game, serta Informasi Terbaru yang bermanfaat.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQjtWe8EC_BKDYTWVqCz-oFY_GMnjkDPKHNoyrT1I0pzg_afgkpa4R3qSTFlHQJBdtm94EuhuqdC1cY1d1BMbN4QbkoTp-omEQJiTqEDWfI7P0En7GWEkFrWZUoHpI8DH-xfcupQOWX5BaU3CCz_XqSAhEHd6AJ3tJeRVWi_BneJ9Nv35XHzHpMO1r/s48/masdhika.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQjtWe8EC_BKDYTWVqCz-oFY_GMnjkDPKHNoyrT1I0pzg_afgkpa4R3qSTFlHQJBdtm94EuhuqdC1cY1d1BMbN4QbkoTp-omEQJiTqEDWfI7P0En7GWEkFrWZUoHpI8DH-xfcupQOWX5BaU3CCz_XqSAhEHd6AJ3tJeRVWi_BneJ9Nv35XHzHpMO1r/s72/masdhika.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQjtWe8EC_BKDYTWVqCz-oFY_GMnjkDPKHNoyrT1I0pzg_afgkpa4R3qSTFlHQJBdtm94EuhuqdC1cY1d1BMbN4QbkoTp-omEQJiTqEDWfI7P0En7GWEkFrWZUoHpI8DH-xfcupQOWX5BaU3CCz_XqSAhEHd6AJ3tJeRVWi_BneJ9Nv35XHzHpMO1r/s96/masdhika.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQjtWe8EC_BKDYTWVqCz-oFY_GMnjkDPKHNoyrT1I0pzg_afgkpa4R3qSTFlHQJBdtm94EuhuqdC1cY1d1BMbN4QbkoTp-omEQJiTqEDWfI7P0En7GWEkFrWZUoHpI8DH-xfcupQOWX5BaU3CCz_XqSAhEHd6AJ3tJeRVWi_BneJ9Nv35XHzHpMO1r/s144/masdhika.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQjtWe8EC_BKDYTWVqCz-oFY_GMnjkDPKHNoyrT1I0pzg_afgkpa4R3qSTFlHQJBdtm94EuhuqdC1cY1d1BMbN4QbkoTp-omEQJiTqEDWfI7P0En7GWEkFrWZUoHpI8DH-xfcupQOWX5BaU3CCz_XqSAhEHd6AJ3tJeRVWi_BneJ9Nv35XHzHpMO1r/s168/masdhika.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQjtWe8EC_BKDYTWVqCz-oFY_GMnjkDPKHNoyrT1I0pzg_afgkpa4R3qSTFlHQJBdtm94EuhuqdC1cY1d1BMbN4QbkoTp-omEQJiTqEDWfI7P0En7GWEkFrWZUoHpI8DH-xfcupQOWX5BaU3CCz_XqSAhEHd6AJ3tJeRVWi_BneJ9Nv35XHzHpMO1r/s192/masdhika.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQjtWe8EC_BKDYTWVqCz-oFY_GMnjkDPKHNoyrT1I0pzg_afgkpa4R3qSTFlHQJBdtm94EuhuqdC1cY1d1BMbN4QbkoTp-omEQJiTqEDWfI7P0En7GWEkFrWZUoHpI8DH-xfcupQOWX5BaU3CCz_XqSAhEHd6AJ3tJeRVWi_BneJ9Nv35XHzHpMO1r/s512/masdhika.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
